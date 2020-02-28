@@ -1,33 +1,39 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+
 .div1 {
     background-color: #3191c4;
-    width: 100vh;
+    width: 100%;
     height: 150px;
     }
     .div2 {
         background-color: #67e6db;
-        width: 100vh;
+        width: 100%;
         height: 150px;
        
     }
     .div3 {
         background-color: #bde0a6;
-        width: 100vh;
+        width: 100%;
         height: 150px;
     }
     .div4 {
         background-color: #d9db3d;
-        width: 100vh;
+        width: 100%;
         height: 150px;
     }
      .box {
-         width: 100vh;
+         width: 100%;
          position: 
      }
     
      .firstBox {
-         width: 100vh;
+         width: 100%;
          height: 150px;
-         background-color: #d6d4d4;
+         background-color:  #d6d4d4;
      }
      .secondBox {
          width: 100px;
@@ -40,16 +46,20 @@
      }
 
      .words {
-         height: 160px;
+         height: 200px;
          width: 80vh;
-        padding-bottom: 12px;
-
+        /* padding-bottom: 12px; */
+        text-align: center;
+        font-family: 'Caladea';
+        font-size: 28px;
+        margin: auto;
+        /* margin-left: 50px; */
      }
 
-     p {
+     /* p {
          text-align: center;
          font-family: 'Caladea';
          font-size: 22px;
          margin-left: 50px;
          
-     }
+     } */
